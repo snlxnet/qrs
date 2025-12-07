@@ -1,3 +1,6 @@
+> [!warning]
+> The project is temorarally offline
+
 > Send any data via a QR code without having to log in / install anything
 
 ![screenshot](ui.png)
