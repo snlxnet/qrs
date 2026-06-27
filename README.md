@@ -1,5 +1,5 @@
 > [!warning]
-> The project is temorarally offline
+> May not work for you, if you can't access https://api.snlx.net, this will not work either. Haven't found a fix yet
 
 > Send any data via a QR code without having to log in / install anything
 
