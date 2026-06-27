@@ -11,7 +11,7 @@
 async function setupNode({ id, onConnect, onDisconnect, onData }) {
   return new Promise((resolve) => {
     const node = new Peer(id, {
-      host: "peer-server.snlx.net",
+      host: "peer.snlx.net",
       port: 443,
       path: "/",
       config: {
